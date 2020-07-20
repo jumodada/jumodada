@@ -4,7 +4,7 @@
 
 I'm a Front-end developer 
     
-##About
+## About
 -  **Learning :** Java | NodeJs
 -  **Languages :** Javascript | Java
 -  **Hobbies:** Dota | The Legend of Zelda
