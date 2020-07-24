@@ -9,3 +9,7 @@ I'm a Front-end developer
 -  **Languages :** Javascript | Java
 -  **Hobbies:** Dota | The Legend of Zelda
 
+### My code time
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
