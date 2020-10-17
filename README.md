@@ -13,12 +13,12 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 October, 2020 - 15 October, 2020
+Week: 09 October, 2020 - 16 October, 2020
 
-TypeScript   21 hrs 31 mins  ███████████████░░░░░░░░░░   59.82 % 
-Vue.js       9 hrs 17 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.81 % 
-SCSS         2 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-JavaScript   2 hrs 2 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-JSON         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+TypeScript   17 hrs 8 mins   ██████████████▒░░░░░░░░░░   57.46 % 
+Vue.js       9 hrs 10 mins   ███████▓░░░░░░░░░░░░░░░░░   30.74 % 
+JavaScript   2 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+SCSS         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+JSON         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 ```
 <!--END_SECTION:waka-->
