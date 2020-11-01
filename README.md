@@ -13,10 +13,10 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 October, 2020 - 30 October, 2020
+Week: 24 October, 2020 - 31 October, 2020
 
-Vue.js       4 hrs 35 mins   ████████████████████▒░░░░   81.43 % 
-JavaScript   33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Vue.js       4 hrs 35 mins   ████████████████████▒░░░░   81.45 % 
+JavaScript   33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
 JSON         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
 ```
 <!--END_SECTION:waka-->
