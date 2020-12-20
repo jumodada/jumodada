@@ -13,7 +13,7 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2020 - 18 December, 2020
+Week: 12 December, 2020 - 19 December, 2020
 
 Java         3 hrs 19 mins   ████████████████░░░░░░░░░   63.67 % 
 Vue.js       1 hr 35 mins    ███████▓░░░░░░░░░░░░░░░░░   30.40 % 
