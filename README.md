@@ -13,12 +13,9 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 December, 2020 - 19 December, 2020
+Week: 13 December, 2020 - 20 December, 2020
 
-Java         3 hrs 19 mins   ████████████████░░░░░░░░░   63.67 % 
-Vue.js       1 hr 35 mins    ███████▓░░░░░░░░░░░░░░░░░   30.40 % 
-YAML         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-XML          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Vue.js       1 hr 13 mins    ███████████████▓░░░░░░░░░   62.51 % 
+Java         43 mins         █████████▒░░░░░░░░░░░░░░░   36.72 % 
 ```
 <!--END_SECTION:waka-->
