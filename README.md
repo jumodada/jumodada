@@ -13,7 +13,7 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2021 - 16 January, 2021
+Week: 10 January, 2021 - 17 January, 2021
 
 TypeScript   17 hrs 15 mins  █████████████████░░░░░░░░   68.33 % 
 Vue.js       4 hrs 59 mins   █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
