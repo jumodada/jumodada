@@ -13,9 +13,9 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 April, 2021 - 09 April, 2021
+Week: 03 April, 2021 - 10 April, 2021
 
-TypeScript   5 hrs 55 mins   █████████████████████░░░░   83.75 % 
+TypeScript   5 hrs 54 mins   █████████████████████░░░░   83.68 % 
 SCSS         26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 Markdown     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 JSON         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
