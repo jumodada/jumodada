@@ -13,12 +13,12 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 August, 2021 - 07 August, 2021
+Week: 02 August, 2021 - 08 August, 2021
 
-TypeScript   29 hrs 47 mins  ███████████████████▓░░░░░   78.04 % 
-SCSS         6 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-JavaScript   1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Text         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-JSON         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+TypeScript   33 hrs 32 mins  ███████████████████▒░░░░░   77.88 % 
+SCSS         6 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Vue.js       1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+JavaScript   48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Text         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
 <!--END_SECTION:waka-->
