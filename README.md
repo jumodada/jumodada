@@ -13,7 +13,7 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 December, 2021 - 10 December, 2021
+Week: 05 December, 2021 - 11 December, 2021
 
 TypeScript   33 hrs 49 mins  ████████████████████░░░░░   80.63 % 
 HTML         4 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
