@@ -13,6 +13,9 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 15 December, 2021 - 21 December, 2021
+
+JSON             43 mins         ████████████████████░░░░░   80.63 % 
+TypeScript       10 mins         █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
 ```
 <!--END_SECTION:waka-->
