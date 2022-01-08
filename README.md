@@ -13,7 +13,7 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 December, 2021 - 06 January, 2022
+Week: 01 January, 2022 - 07 January, 2022
 
 Java         17 mins         █████████████▓░░░░░░░░░░░   54.64 % 
 XML          6 mins          █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
