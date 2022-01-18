@@ -13,9 +13,8 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 January, 2022 - 16 January, 2022
+Week: 11 January, 2022 - 17 January, 2022
 
-TypeScript   26 mins         ███████████████████████▒░   93.72 % 
-Markdown     1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Markdown   1 min           █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
