@@ -13,8 +13,10 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 January, 2022 - 18 January, 2022
+Week: 13 January, 2022 - 19 January, 2022
 
-Markdown   1 min           █████████████████████████   100.00 % 
+JSON         9 mins          ██████████░░░░░░░░░░░░░░░   40.33 % 
+Vue.js       6 mins          ███████▒░░░░░░░░░░░░░░░░░   29.26 % 
+JavaScript   6 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.12 % 
 ```
 <!--END_SECTION:waka-->
