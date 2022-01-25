@@ -13,7 +13,7 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 January, 2022 - 23 January, 2022
+Week: 18 January, 2022 - 24 January, 2022
 
 Vue.js       6 hrs 33 mins   ████████████████▓░░░░░░░░   66.70 % 
 JavaScript   2 hrs 28 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.14 % 
