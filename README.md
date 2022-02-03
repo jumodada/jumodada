@@ -13,9 +13,9 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 January, 2022 - 01 February, 2022
+Week: 27 January, 2022 - 02 February, 2022
 
-Vue.js       5 hrs 5 mins    █████████████████████▓░░░   86.90 % 
-JavaScript   45 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Vue.js       2 hrs 34 mins   ███████████████████▒░░░░░   77.10 % 
+JavaScript   45 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.63 % 
 ```
 <!--END_SECTION:waka-->
