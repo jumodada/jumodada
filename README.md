@@ -13,6 +13,10 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 February, 2022 - 08 February, 2022
+
+TypeScript   3 hrs 54 mins   ███████████████▓░░░░░░░░░   62.99 % 
+Vue.js       1 hr 39 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.75 % 
+JavaScript   37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
 ```
 <!--END_SECTION:waka-->
