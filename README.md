@@ -14,14 +14,14 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 March 2022 - To: 02 April 2022
+From: 27 March 2022 - To: 03 April 2022
 
-Vue.js           20 hrs 17 mins  ████████████▒░░░░░░░░░░░░   49.83 %
-TypeScript       9 hrs 3 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.25 %
-JavaScript       7 hrs 37 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.70 %
-JSON             1 hr 58 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-Text             1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-Markdown         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Vue.js           21 hrs 46 mins  ████████████▒░░░░░░░░░░░░   49.39 %
+TypeScript       10 hrs 29 mins  ██████░░░░░░░░░░░░░░░░░░░   23.80 %
+JavaScript       8 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.29 %
+JSON             1 hr 58 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Text             1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Markdown         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
