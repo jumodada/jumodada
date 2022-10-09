@@ -14,9 +14,12 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 September 2022 - To: 07 October 2022
+From: 01 October 2022 - To: 08 October 2022
 
-GitIgnore file   0 secs          █████████████████████████   100.00 %
+Go               45 mins         ███████████████████████▓░   95.12 %
+JSON             2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+TypeScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
