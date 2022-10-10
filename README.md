@@ -14,7 +14,7 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 October 2022 - To: 08 October 2022
+From: 02 October 2022 - To: 09 October 2022
 
 Go               45 mins         ███████████████████████▓░   95.12 %
 JSON             2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
