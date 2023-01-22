@@ -14,7 +14,7 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 January 2023 - To: 20 January 2023
+From: 14 January 2023 - To: 21 January 2023
 
 HTML         1 hr 36 mins    ███████░░░░░░░░░░░░░░░░░░   27.44 %
 JSON         1 hr 33 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
