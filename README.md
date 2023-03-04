@@ -14,14 +14,14 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 February 2023 - To: 02 March 2023
+From: 24 February 2023 - To: 03 March 2023
 
-TypeScript        15 hrs 25 mins  ████████████████▒░░░░░░░░   65.92 %
-HTML              2 hrs 59 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
-JSON              2 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-Python            1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-Text              34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-Markdown          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+TypeScript   11 hrs 41 mins  ████████████████▓░░░░░░░░   67.04 %
+HTML         2 hrs 44 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
+JSON         2 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
+Docker       30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Markdown     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
