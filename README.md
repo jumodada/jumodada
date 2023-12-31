@@ -14,7 +14,7 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2023 - To: 29 December 2023
+From: 23 December 2023 - To: 30 December 2023
 
 TypeScript   4 hrs 40 mins   ███████████████▓░░░░░░░░░   62.14 %
 HTML         1 hr 54 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.46 %
