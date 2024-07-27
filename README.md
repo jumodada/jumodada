@@ -14,12 +14,12 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 July 2024 - To: 25 July 2024
+From: 19 July 2024 - To: 26 July 2024
 
-Java             8 hrs 16 mins   ███████████████████████░░   91.70 %
-CLASS            23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-Docker           20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Java             7 hrs 44 mins   ██████████████████████▓░░   91.17 %
+CLASS            23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Docker           20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
