@@ -14,13 +14,13 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2024 - To: 05 August 2024
+From: 30 July 2024 - To: 06 August 2024
 
-Java             1 hr 3 mins     ██████████▓░░░░░░░░░░░░░░   42.62 %
-XML              49 mins         ████████▒░░░░░░░░░░░░░░░░   33.19 %
-SQL              35 mins         ██████░░░░░░░░░░░░░░░░░░░   24.04 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+XML               1 hr 20 mins    ███████████▒░░░░░░░░░░░░░   44.84 %
+Java              1 hr 5 mins     █████████░░░░░░░░░░░░░░░░   36.04 %
+SQL               31 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.49 %
+Properties        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Java Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
