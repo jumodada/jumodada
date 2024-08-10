@@ -14,7 +14,7 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2024 - To: 08 August 2024
+From: 02 August 2024 - To: 09 August 2024
 
 Java              3 hrs 56 mins   ████████████████░░░░░░░░░   64.43 %
 XML               1 hr 34 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.75 %
