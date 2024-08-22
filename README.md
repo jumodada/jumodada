@@ -14,7 +14,7 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2024 - To: 20 August 2024
+From: 14 August 2024 - To: 21 August 2024
 
 Java   38 mins         █████████████████████████   99.68 %
 SQL    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
