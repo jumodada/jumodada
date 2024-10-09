@@ -14,9 +14,12 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 September 2024 - To: 03 October 2024
+From: 01 October 2024 - To: 08 October 2024
 
-No activity tracked
+Java   59 mins         ██████████████░░░░░░░░░░░   55.93 %
+XML    32 mins         ███████▓░░░░░░░░░░░░░░░░░   30.78 %
+YAML   13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
+SQL    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
