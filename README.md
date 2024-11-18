@@ -14,7 +14,7 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 16 November 2024
+From: 10 November 2024 - To: 17 November 2024
 
 Markdown         0 secs          ███████████░░░░░░░░░░░░░░   44.62 %
 SQL              0 secs          ████████░░░░░░░░░░░░░░░░░   32.49 %
