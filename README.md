@@ -14,12 +14,10 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2024 - To: 17 November 2024
+From: 11 November 2024 - To: 18 November 2024
 
-Markdown         0 secs          ███████████░░░░░░░░░░░░░░   44.62 %
-SQL              0 secs          ████████░░░░░░░░░░░░░░░░░   32.49 %
-GitIgnore file   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-XML              0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+Markdown         0 secs          ███████████████████▒░░░░░   76.75 %
+GitIgnore file   0 secs          █████▓░░░░░░░░░░░░░░░░░░░   23.25 %
 ```
 
 <!--END_SECTION:waka-->
