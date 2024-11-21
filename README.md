@@ -14,10 +14,9 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2024 - To: 19 November 2024
+From: 13 November 2024 - To: 20 November 2024
 
-Markdown         0 secs          ███████████████████▒░░░░░   76.75 %
-GitIgnore file   0 secs          █████▓░░░░░░░░░░░░░░░░░░░   23.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
