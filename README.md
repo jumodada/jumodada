@@ -14,12 +14,9 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2024 - To: 23 December 2024
+From: 17 December 2024 - To: 24 December 2024
 
-Image (svg)   6 mins          █████████████████▓░░░░░░░   70.16 %
-Git Config    2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
-JSON          0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-JavaScript    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
