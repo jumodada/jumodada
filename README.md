@@ -14,9 +14,13 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2024 - To: 07 January 2025
+From: 01 January 2025 - To: 08 January 2025
 
-No activity tracked
+Python       11 mins         ████████▓░░░░░░░░░░░░░░░░   34.21 %
+YAML         11 mins         ████████▓░░░░░░░░░░░░░░░░   34.07 %
+Git Config   4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
+XML          4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
+Markdown     1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
 ```
 
 <!--END_SECTION:waka-->
