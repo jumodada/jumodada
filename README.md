@@ -14,7 +14,7 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2025 - To: 11 January 2025
+From: 05 January 2025 - To: 12 January 2025
 
 Python           3 hrs 25 mins   █████████████▓░░░░░░░░░░░   54.38 %
 YAML             1 hr 35 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.34 %
