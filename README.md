@@ -14,7 +14,7 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2025 - To: 17 January 2025
+From: 11 January 2025 - To: 18 January 2025
 
 Python           18 hrs 43 mins  ████████████████████░░░░░   79.82 %
 INI              1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
