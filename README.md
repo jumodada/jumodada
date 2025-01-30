@@ -14,9 +14,9 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2025 - To: 28 January 2025
+From: 22 January 2025 - To: 29 January 2025
 
-Python   2 hrs 44 mins   █████████████████████████   100.00 %
+Python   30 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
