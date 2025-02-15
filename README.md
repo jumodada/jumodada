@@ -14,9 +14,9 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2025 - To: 13 February 2025
+From: 07 February 2025 - To: 14 February 2025
 
-TypeScript   1 hr 27 mins    █████████████████████████   99.81 %
+TypeScript   1 hr 25 mins    █████████████████████████   99.80 %
 YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
