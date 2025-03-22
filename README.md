@@ -14,13 +14,13 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 March 2025 - To: 20 March 2025
+From: 14 March 2025 - To: 21 March 2025
 
-TypeScript                 16 hrs 36 mins  █████████████████████░░░░   84.62 %
-XML                        1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-JSON                       34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-JavaScript                 23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Bash                       20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+TypeScript   16 hrs 50 mins  ████████████████████▒░░░░   80.85 %
+XML          2 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
+JavaScript   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Bash         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
 <!--END_SECTION:waka-->
