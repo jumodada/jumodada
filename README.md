@@ -14,7 +14,7 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2025 - To: 30 April 2025
+From: 24 April 2025 - To: 01 May 2025
 
 TypeScript   17 hrs 32 mins  █████████████████████░░░░   83.82 %
 Vue.js       1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
