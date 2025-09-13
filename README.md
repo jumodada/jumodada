@@ -14,13 +14,13 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2025 - To: 11 September 2025
+From: 05 September 2025 - To: 12 September 2025
 
-Astro                15 hrs 21 mins  ███████████░░░░░░░░░░░░░░   43.35 %
-TypeScript           4 hrs 37 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
-Markdown             3 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-Other                2 hrs 47 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
-Vue.js               2 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Astro                17 hrs 1 min    ████████████░░░░░░░░░░░░░   48.30 %
+TypeScript           5 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
+Markdown             3 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
+Other                2 hrs 58 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+Java                 1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
 ```
 
 <!--END_SECTION:waka-->
