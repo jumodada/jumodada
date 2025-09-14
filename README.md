@@ -14,7 +14,7 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2025 - To: 12 September 2025
+From: 06 September 2025 - To: 13 September 2025
 
 Astro                17 hrs 1 min    ████████████░░░░░░░░░░░░░   48.30 %
 TypeScript           5 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
