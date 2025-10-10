@@ -14,9 +14,13 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2025 - To: 08 October 2025
+From: 02 October 2025 - To: 09 October 2025
 
-No activity tracked
+YAML         1 hr 16 mins    ██████████░░░░░░░░░░░░░░░   40.53 %
+Python       35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
+Java         25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
+Other        16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+Git Config   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
 ```
 
 <!--END_SECTION:waka-->
