@@ -14,7 +14,7 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2025 - To: 14 October 2025
+From: 08 October 2025 - To: 15 October 2025
 
 YAML                       4 hrs 9 mins    ███████░░░░░░░░░░░░░░░░░░   27.42 %
 TypeScript                 2 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
