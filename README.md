@@ -14,7 +14,7 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2025 - To: 31 October 2025
+From: 25 October 2025 - To: 01 November 2025
 
 Astro        1 hr 34 mins    ████████████▓░░░░░░░░░░░░   50.61 %
 Python       54 mins         ███████▒░░░░░░░░░░░░░░░░░   29.29 %
