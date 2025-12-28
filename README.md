@@ -14,7 +14,7 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2025 - To: 26 December 2025
+From: 20 December 2025 - To: 27 December 2025
 
 JSON         9 hrs 28 mins   ███████████░░░░░░░░░░░░░░   44.10 %
 Astro        7 hrs 29 mins   ████████▓░░░░░░░░░░░░░░░░   34.83 %
