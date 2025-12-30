@@ -14,13 +14,13 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2025 - To: 28 December 2025
+From: 22 December 2025 - To: 29 December 2025
 
-JSON         9 hrs 18 mins   ███████████░░░░░░░░░░░░░░   44.37 %
-Astro        7 hrs 29 mins   █████████░░░░░░░░░░░░░░░░   35.70 %
-TypeScript   2 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-YAML         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Markdown     22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Astro        7 hrs 29 mins   ███████████░░░░░░░░░░░░░░   43.50 %
+JSON         5 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   29.88 %
+TypeScript   2 hrs 44 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
+YAML         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Markdown     21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
