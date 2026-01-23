@@ -14,13 +14,13 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 January 2026 - To: 21 January 2026
+From: 15 January 2026 - To: 22 January 2026
 
-Python                     7 hrs 8 mins    █████████░░░░░░░░░░░░░░░░   36.03 %
-Markdown                   4 hrs 32 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.92 %
-YAML                       3 hrs 59 mins   █████░░░░░░░░░░░░░░░░░░░░   20.10 %
-JSON                       1 hr 47 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-Bash                       50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+Markdown                   6 hrs 10 mins   ███████▓░░░░░░░░░░░░░░░░░   31.15 %
+Python                     5 hrs 28 mins   ███████░░░░░░░░░░░░░░░░░░   27.63 %
+YAML                       3 hrs 49 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.26 %
+JSON                       1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+Bash                       37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
 ```
 
 <!--END_SECTION:waka-->
