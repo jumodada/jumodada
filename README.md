@@ -14,7 +14,7 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2026 - To: 24 January 2026
+From: 18 January 2026 - To: 25 January 2026
 
 Python                     5 hrs 45 mins   ███████▓░░░░░░░░░░░░░░░░░   31.24 %
 Markdown                   4 hrs 58 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.97 %
