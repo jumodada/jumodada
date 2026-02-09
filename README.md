@@ -14,7 +14,7 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2026 - To: 07 February 2026
+From: 01 February 2026 - To: 08 February 2026
 
 Python         4 hrs 21 mins   ████████████▓░░░░░░░░░░░░   50.94 %
 JSON           2 hrs 13 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.05 %
