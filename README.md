@@ -66,13 +66,13 @@ My strongest lane is **Python crawling and browser automation**. I'm a **Drissio
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 July 2026 - To: 27 July 2026
+From: 21 July 2026 - To: 28 July 2026
 
-JSON             14 hrs 45 mins        ████████▒░░░░░░░░░░░░░░░░   33.57 %
-Python           6 hrs 50 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
-Astro            6 hrs 4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
-TypeScript       5 hrs 23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
-Markdown         4 hrs 52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+JSON             18 hrs 18 mins        ██████████▒░░░░░░░░░░░░░░   41.81 %
+Astro            6 hrs 12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
+TypeScript       6 hrs 3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
+Python           4 hrs 17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+Markdown         2 hrs 52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
 ```
 
 <!--END_SECTION:waka-->
