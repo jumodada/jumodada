@@ -45,13 +45,13 @@ I'm available for **freelance and contract projects**, especially crawler develo
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2026 - To: 08 August 2026
+From: 02 August 2026 - To: 09 August 2026
 
-Markdown         6 hrs 44 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.33 %
-JSON             5 hrs 48 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.38 %
-Other            4 hrs 15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
-TypeScript       4 hrs 14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
-JavaScript       2 hrs 25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+Markdown         7 hrs 30 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.96 %
+JSON             5 hrs 55 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
+Other            4 hrs 31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
+TypeScript       4 hrs 14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+Java             2 hrs 20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
 ```
 
 <!--END_SECTION:waka-->
