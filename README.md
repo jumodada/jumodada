@@ -45,13 +45,13 @@ I'm available for **freelance and contract projects**, especially crawler develo
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2026 - To: 24 October 2026
+From: 18 October 2026 - To: 25 October 2026
 
-Markdown         3 hrs 26 mins         ███████████▓░░░░░░░░░░░░░   46.22 %
-Python           2 hrs 28 mins         ████████▒░░░░░░░░░░░░░░░░   33.41 %
-JavaScript       20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-CSS              17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-Other            12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Python       2 hrs 28 mins         ████████████░░░░░░░░░░░░░   48.58 %
+Markdown     2 hrs 14 mins         ███████████░░░░░░░░░░░░░░   43.97 %
+Other        12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Caddyfile    4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+TypeScript   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
